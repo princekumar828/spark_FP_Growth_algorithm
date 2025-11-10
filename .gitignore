@@ -9,12 +9,7 @@ env/
 ENV/
 .venv
 
-# Generated data files
-input.csv
-input_iteration_*.csv
-rule.txt
-rules_iteration_*.txt
-valid_rules.csv
+
 
 # Spark
 spark-warehouse/
